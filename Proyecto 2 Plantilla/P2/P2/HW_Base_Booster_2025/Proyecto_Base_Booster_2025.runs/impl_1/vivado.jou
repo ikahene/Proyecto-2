@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Oct 28 15:08:47 2025
+# Process ID: 26920
+# Current directory: C:/SEP_vitis/P2/Proyecto 2 Plantilla/P2/P2/HW_Base_Booster_2025/Proyecto_Base_Booster_2025.runs/impl_1
+# Command line: vivado.exe -log DEMO_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source DEMO_wrapper.tcl -notrace
+# Log file: C:/SEP_vitis/P2/Proyecto 2 Plantilla/P2/P2/HW_Base_Booster_2025/Proyecto_Base_Booster_2025.runs/impl_1/DEMO_wrapper.vdi
+# Journal file: C:/SEP_vitis/P2/Proyecto 2 Plantilla/P2/P2/HW_Base_Booster_2025/Proyecto_Base_Booster_2025.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source DEMO_wrapper.tcl -notrace
