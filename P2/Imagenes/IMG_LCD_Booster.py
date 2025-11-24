@@ -21,6 +21,7 @@ Te recomiendo dejar el archivo en la misma carpeta donde estás corriendo este a
 en el mismo workspace de Visual Studio Code que tengas abierto (en caso de que lo estes usando).
 ''')
 print("Gracias, seguimos")
+nombre_archivo = input("Ingresa el nombre del archivo de texto que deseas")
 
 img = image.imread(path)
 
@@ -122,7 +123,7 @@ for j in range(y):
 
 if opcion == '0':
     
-    with open("img_Vitis.txt", "w") as archivo:
+    with open(f"{nombre_archivo}.txt", "w") as archivo:
         archivo.write(txt)
     print("Archivo creado: img_Vitis.txt")
 else:    
